@@ -19,5 +19,5 @@ Paul J. Mignone, PhD Candidate, The University of Melbourne
 	"One of the best lessons children learn through video games is 
 	standing still will get them killed quicker than anything else."
 	
-	- Jinx Milea
+	- Jinx Milea 
 
